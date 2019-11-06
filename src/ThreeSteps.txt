@@ -1,0 +1,3 @@
+1- action Types
+2- action creators  which returns action 
+3- Reducers
